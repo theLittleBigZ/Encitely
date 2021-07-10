@@ -1,1 +1,2 @@
 # Encitely
+is an e-learning and educational start-up company that began at McMaster University. Our mission statement is to provide students–undegraduate or higher–with the resources to be able to network and find valuable research opportunities. We strive to help students pave their career pathway and navigate the confusion that comes with tackling STEM fields. Join us to learn more about our ventures, and how we can help you.
